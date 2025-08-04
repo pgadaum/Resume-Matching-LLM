@@ -1,3 +1,4 @@
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/577441c1-5aa1-4fb2-a7a4-17936a2fae62" />
 
 # Resume-Job Matching with Sentence Transformers
 
@@ -5,7 +6,7 @@ This repository presents a semantic similarity-based NLP solution for matching c
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 The goal is to measure how well a candidate's resume aligns with a job description by computing cosine similarity between their text embeddings. This approach enables robust, language-aware matching without relying on strict keyword overlap.
 
@@ -13,16 +14,16 @@ We fine-tuned the `all-MiniLM-L6-v2` sentence transformer model on a dataset of 
 
 ---
 
-## ✅ Summary of Work Done
+##  Summary of Work Done
 
-### 📊 Data
+###  Data
 
 - **Type**: Text-based resume dataset
 - **Inputs**: Resume content and their labeled job categories
 - **Labels**: 25+ job role categories (e.g., IT, Finance, HR, Healthcare)
 - **Size**: ~6,000–7,000 entries post-cleaning
 
-### 🧼 Preprocessing
+###  Preprocessing
 
 - Cleaned HTML and stringified content from resume files
 - Verified class balance across job categories
@@ -31,7 +32,7 @@ We fine-tuned the `all-MiniLM-L6-v2` sentence transformer model on a dataset of 
 
 ---
 
-## 📈 Data Visualization
+##  Data Visualization
 
 1. **Resume Category Distribution**  
    Showed fairly even distribution across job roles like IT, Business Development, Engineering, etc.
@@ -44,7 +45,7 @@ We fine-tuned the `all-MiniLM-L6-v2` sentence transformer model on a dataset of 
 
 ---
 
-## 🤖 Problem Formulation
+##  Problem Formulation
 
 - **Input**:  
   Two pieces of text — a candidate resume and a job description
@@ -63,7 +64,7 @@ We fine-tuned the `all-MiniLM-L6-v2` sentence transformer model on a dataset of 
 
 ---
 
-## 🏋️‍♀️ Training
+##  Training
 
 - **Environment**:
   - Google Colab (GPU: T4)
@@ -75,7 +76,7 @@ We fine-tuned the `all-MiniLM-L6-v2` sentence transformer model on a dataset of 
 
 ---
 
-## 🧪 Evaluation
+##  Evaluation
 
 - **Metric**: Cosine similarity
 - **Example**:
@@ -96,7 +97,7 @@ We fine-tuned the `all-MiniLM-L6-v2` sentence transformer model on a dataset of 
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 - Fine-tune for more epochs and include hard negative examples
 - Use a larger model (e.g., `paraphrase-MiniLM`, `mpnet-base`)
@@ -105,7 +106,7 @@ We fine-tuned the `all-MiniLM-L6-v2` sentence transformer model on a dataset of 
 
 ---
 
-## 🔁 How to Reproduce Results
+##  How to Reproduce Results
 
 1. Clone the repo and open the notebook:
    ```
@@ -121,7 +122,7 @@ We fine-tuned the `all-MiniLM-L6-v2` sentence transformer model on a dataset of 
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -132,7 +133,7 @@ We fine-tuned the `all-MiniLM-L6-v2` sentence transformer model on a dataset of 
 
 ---
 
-## 📚 Citations
+##  Citations
 
 - [Sentence Transformers](https://www.sbert.net/)
 - [Hugging Face Models](https://huggingface.co/models)

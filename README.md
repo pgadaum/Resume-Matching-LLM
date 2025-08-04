@@ -89,7 +89,7 @@ We fine-tuned the `all-MiniLM-L6-v2` sentence transformer model on a dataset of 
 
 ---
 
-## 🧾 Conclusions
+##  Conclusions
 
 - The sentence transformer model was effective for understanding resume-job relationships.
 - Cosine similarity provided an interpretable, continuous measure of relevance.

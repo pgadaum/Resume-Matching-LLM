@@ -77,13 +77,10 @@ Metrics include:
 - **Top-3 Accuracy:** TBD
 
 **Figures:**
-![ROC (resume-level)](figures/roc_resume_level.png)  <!-- 📌 Save your ROC plot to this path -->
 <img width="662" height="501" alt="Screenshot 2025-08-10 at 10 45 13 PM" src="https://github.com/user-attachments/assets/64040399-9919-4852-953d-152995faa335" />
 
-![Score Distribution (resume-level)](figures/score_distribution_resume_level.png)  <!-- 📌 Save your histogram to this path -->
 <img width="665" height="515" alt="Screenshot 2025-08-10 at 10 45 40 PM" src="https://github.com/user-attachments/assets/2873d006-c719-4bfe-a4cc-6763fa356a3a" />
 
-![Confusion Matrix (resume-level)](figures/confusion_matrix_resume_level.png)  <!-- 📌 Already saved by helper cell -->
 <img width="627" height="504" alt="Screenshot 2025-08-10 at 10 46 28 PM" src="https://github.com/user-attachments/assets/936b8197-c3d5-480b-ac3a-3aeeae69d7b5" />
 
 ---
@@ -112,7 +109,6 @@ Metrics include:
 To understand category separation in embedding space, we visualized resume embeddings with **t-SNE** (legend maps category index → name).
 <img width="732" height="649" alt="Screenshot 2025-08-10 at 10 39 22 PM" src="https://github.com/user-attachments/assets/22684003-62c3-41e4-bc25-1b5d95f91730" />
 
-![t-SNE](figures/tsne_resume_embeddings.png)  <!-- 📌 Save your t-SNE figure here -->
 
 ---
 

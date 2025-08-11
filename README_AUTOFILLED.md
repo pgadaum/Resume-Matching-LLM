@@ -76,7 +76,6 @@ Metrics include:
 - **Best F1 threshold:** TBD (F1=TBD)
 - **Top-3 Accuracy:** TBD
 
-**Figures:**
 <img width="662" height="501" alt="Screenshot 2025-08-10 at 10 45 13 PM" src="https://github.com/user-attachments/assets/64040399-9919-4852-953d-152995faa335" />
 
 <img width="665" height="515" alt="Screenshot 2025-08-10 at 10 45 40 PM" src="https://github.com/user-attachments/assets/2873d006-c719-4bfe-a4cc-6763fa356a3a" />
@@ -93,7 +92,6 @@ Metrics include:
 - **ROC–AUC:** TBD
 - **Best F1 threshold:** TBD (F1=TBD)
 
-**Figures:**
 <img width="737" height="565" alt="image" src="https://github.com/user-attachments/assets/c06a4e10-2725-4b91-98a5-087d6d06e648" />
 
 <img width="666" height="508" alt="Screenshot 2025-08-10 at 10 40 32 PM" src="https://github.com/user-attachments/assets/a3510601-cc85-4b82-941a-27e21df93939" />

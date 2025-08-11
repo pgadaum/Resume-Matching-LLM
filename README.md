@@ -68,13 +68,11 @@ Metrics include:
 ---
 
 ### Results — Resume-level split (recommended)
-- **Accuracy:** TBD
-- **Precision:** TBD
-- **Recall:** TBD
-- **F1-score:** TBD
-- **ROC–AUC:** TBD
-- **Best F1 threshold:** TBD (F1=TBD)
-- **Top-3 Accuracy:** TBD
+- **Accuracy:** 0.833
+- **Precision:** 0.985
+- **Recall:** 0.676
+- **F1-score:** 0.802
+- **ROC–AUC:** 0.929
 
 <img width="662" height="501" alt="Screenshot 2025-08-10 at 10 45 13 PM" src="https://github.com/user-attachments/assets/64040399-9919-4852-953d-152995faa335" />
 

@@ -83,12 +83,11 @@ Metrics include:
 ---
 
 ### Results — Pair-level split (for comparison)
-- **Accuracy:** TBD
-- **Precision:** TBD
-- **Recall:** TBD
-- **F1-score:** TBD
-- **ROC–AUC:** TBD
-- **Best F1 threshold:** TBD (F1=TBD)
+- **Accuracy:** 0.957
+- **Precision:** 0.992
+- **Recall:** 0.922
+- **F1-score:** 0.956
+- **ROC–AUC:** 0.993
 
 <img width="737" height="565" alt="image" src="https://github.com/user-attachments/assets/c06a4e10-2725-4b91-98a5-087d6d06e648" />
 

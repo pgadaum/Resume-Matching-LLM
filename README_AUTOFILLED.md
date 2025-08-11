@@ -56,7 +56,7 @@ Unlike traditional keyword-based search, this approach captures **semantic meani
 
 Two evaluation setups were used:
 1. **Pair-level split** (original approach)
-2. **Resume-level split** (stronger evaluation; prevents leakage) ✅
+2. **Resume-level split** (stronger evaluation; prevents leakage)
 
 Metrics include:
 - Accuracy
@@ -101,7 +101,7 @@ Metrics include:
 ---
 
 ## t-SNE Visualization
-To understand category separation in embedding space, we visualized resume embeddings with **t-SNE** (legend maps category index → name).
+To understand category separation in embedding space, we visualized resume embeddings with **t-SNE**.
 <img width="732" height="649" alt="Screenshot 2025-08-10 at 10 39 22 PM" src="https://github.com/user-attachments/assets/22684003-62c3-41e4-bc25-1b5d95f91730" />
 
 

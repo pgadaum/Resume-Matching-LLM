@@ -94,13 +94,10 @@ Metrics include:
 - **Best F1 threshold:** TBD (F1=TBD)
 
 **Figures:**
-![ROC (pair-level)](figures/roc_pair_level.png)
 <img width="737" height="565" alt="image" src="https://github.com/user-attachments/assets/c06a4e10-2725-4b91-98a5-087d6d06e648" />
 
-![Score Distribution (pair-level)](figures/score_distribution_pair_level.png)
 <img width="666" height="508" alt="Screenshot 2025-08-10 at 10 40 32 PM" src="https://github.com/user-attachments/assets/a3510601-cc85-4b82-941a-27e21df93939" />
 
-![Confusion Matrix (pair-level)](figures/confusion_matrix_pair_level.png)
 <img width="629" height="507" alt="Screenshot 2025-08-10 at 10 40 59 PM" src="https://github.com/user-attachments/assets/6eaf436a-c6ad-443d-a73d-db5c2304ef44" />
 
 ---

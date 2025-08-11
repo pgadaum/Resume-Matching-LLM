@@ -1,6 +1,8 @@
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a7264691-db29-48e5-9f53-516e928ad653" />
+
 # Resume–Job Matching with Sentence Transformers
 
-### One Sentence Summary
+
 A fine-tuned sentence transformer model that matches candidate resumes to job descriptions using semantic similarity, evaluated with rigorous metrics and visualizations.
 
 ---
@@ -76,8 +78,13 @@ Metrics include:
 
 **Figures:**
 ![ROC (resume-level)](figures/roc_resume_level.png)  <!-- 📌 Save your ROC plot to this path -->
+<img width="662" height="501" alt="Screenshot 2025-08-10 at 10 45 13 PM" src="https://github.com/user-attachments/assets/64040399-9919-4852-953d-152995faa335" />
+
 ![Score Distribution (resume-level)](figures/score_distribution_resume_level.png)  <!-- 📌 Save your histogram to this path -->
+<img width="665" height="515" alt="Screenshot 2025-08-10 at 10 45 40 PM" src="https://github.com/user-attachments/assets/2873d006-c719-4bfe-a4cc-6763fa356a3a" />
+
 ![Confusion Matrix (resume-level)](figures/confusion_matrix_resume_level.png)  <!-- 📌 Already saved by helper cell -->
+<img width="627" height="504" alt="Screenshot 2025-08-10 at 10 46 28 PM" src="https://github.com/user-attachments/assets/936b8197-c3d5-480b-ac3a-3aeeae69d7b5" />
 
 ---
 
@@ -91,13 +98,19 @@ Metrics include:
 
 **Figures:**
 ![ROC (pair-level)](figures/roc_pair_level.png)
+<img width="737" height="565" alt="image" src="https://github.com/user-attachments/assets/c06a4e10-2725-4b91-98a5-087d6d06e648" />
+
 ![Score Distribution (pair-level)](figures/score_distribution_pair_level.png)
+<img width="666" height="508" alt="Screenshot 2025-08-10 at 10 40 32 PM" src="https://github.com/user-attachments/assets/a3510601-cc85-4b82-941a-27e21df93939" />
+
 ![Confusion Matrix (pair-level)](figures/confusion_matrix_pair_level.png)
+<img width="629" height="507" alt="Screenshot 2025-08-10 at 10 40 59 PM" src="https://github.com/user-attachments/assets/6eaf436a-c6ad-443d-a73d-db5c2304ef44" />
 
 ---
 
 ## t-SNE Visualization
 To understand category separation in embedding space, we visualized resume embeddings with **t-SNE** (legend maps category index → name).
+<img width="732" height="649" alt="Screenshot 2025-08-10 at 10 39 22 PM" src="https://github.com/user-attachments/assets/22684003-62c3-41e4-bc25-1b5d95f91730" />
 
 ![t-SNE](figures/tsne_resume_embeddings.png)  <!-- 📌 Save your t-SNE figure here -->
 
